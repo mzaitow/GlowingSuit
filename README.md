@@ -23,3 +23,5 @@
 #### Схема
   ![](https://raw.githubusercontent.com/mzaitow/GlowingSuit/main/leg_scheme.png)
   
+#### Прототип
+  ![](https://github.com/mzaitow/GlowingSuit/blob/main/2023-06-1512:57:27124x426.png?raw=true)
